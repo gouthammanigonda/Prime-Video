@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.unordered-list {
+  display: flex;
+}
+.popup-container {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+}
+
+.close-btn {
+  background-color: transparent;
+  border: 0px;
+  align-self: flex-end;
+}
+
+.react-player {
+  padding: 10px;
+}
